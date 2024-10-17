@@ -85,6 +85,13 @@ nav a:hover {
     grid-template-columns: repeat(9, auto);
 }
 
+#playoffs {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-self: center;
+    margin-top: 10px;
+}
+
 #current {
     background-color: var(--nfl-blue);
 }
