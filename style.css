@@ -354,6 +354,7 @@ main a:hover {
 
 .player li {
     margin: 10px 0px;
+    font-family: Num;
 }
 
 .stat-list .player {
@@ -373,7 +374,7 @@ main a:hover {
     font-family: Num;
     font-size: 30px;
     font-weight: 600;
-    margin: 12px 0px;
+    margin: 16px 0px;
 }
 
 .stat-name {
