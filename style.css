@@ -386,3 +386,17 @@ main a:hover {
 .list-img {
     height: 35px;
 }
+
+#empty {
+    background-color: var(--nfl-blue);
+    border-color: var(--nfl-blue);
+}
+
+#bye-big {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+}
+
+#bye-big div {
+    width: 100px;
+}
