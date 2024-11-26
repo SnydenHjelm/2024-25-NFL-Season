@@ -384,7 +384,28 @@ main a:hover {
 }
 
 .list-img {
-    height: 35px;
+    width: 45px;
+    object-fit: contain;
+}
+
+.pass-int {
+    margin: 20px 0px;
+}
+
+.rec-yds {
+    margin: 19px 0px;
+}
+
+.tfl {
+    margin: 25px 0px;
+}
+
+.ff {
+    margin: 20px 0px;
+}
+
+.sack {
+    margin: 19px 0px;
 }
 
 #empty {
