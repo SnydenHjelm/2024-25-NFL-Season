@@ -389,23 +389,31 @@ main a:hover {
 }
 
 .pass-int {
-    margin: 20px 0px;
+    margin: 17px 0px;
+}
+
+.ru-yds {
+    margin: 18px 0px;
 }
 
 .rec-yds {
-    margin: 19px 0px;
+    margin: 22px 0px;
 }
 
 .tfl {
-    margin: 25px 0px;
+    margin: 24px 0px;
+}
+
+.sack {
+    margin: 20px 0px;
+}
+
+.int {
+    margin: 20px 0px;
 }
 
 .ff {
     margin: 20px 0px;
-}
-
-.sack {
-    margin: 19px 0px;
 }
 
 #empty {
