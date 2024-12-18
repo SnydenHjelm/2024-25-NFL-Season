@@ -388,12 +388,16 @@ main a:hover {
     object-fit: contain;
 }
 
-.pass-int {
+.pass-td {
     margin: 17px 0px;
 }
 
+.pass-int {
+    margin: 20px 0px;
+}
+
 .ru-yds {
-    margin: 17px 0px;
+    margin: 18px 0px;
 }
 
 .rec-yds {
@@ -415,6 +419,7 @@ main a:hover {
 .ff {
     margin: 20px 0px;
 }
+
 
 #empty {
     background-color: var(--nfl-blue);
