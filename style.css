@@ -401,7 +401,11 @@ main a:hover {
 }
 
 .rec-yds {
-    margin: 22px 0px;
+    margin: 19px 0px;
+}
+
+.rec-td {
+    margin: 18px 0px;
 }
 
 .tfl {
@@ -420,6 +424,10 @@ main a:hover {
     margin: 20px 0px;
 }
 
+.fr {
+    margin: 19px 0px;
+}
+
 
 #empty {
     background-color: var(--nfl-blue);
@@ -433,4 +441,15 @@ main a:hover {
 
 #bye-big div {
     width: 100px;
+}
+
+.nfc-game {
+    background-color: #0c4268;
+    border-color: #1077e6;
+}
+
+#info {
+    text-align: center;
+    color: white;
+    font: 20px Bread;
 }
