@@ -388,6 +388,10 @@ main a:hover {
     object-fit: contain;
 }
 
+.pass-yds {
+    margin: 17px 0px;
+}
+
 .pass-td {
     margin: 17px 0px;
 }
@@ -417,7 +421,7 @@ main a:hover {
 }
 
 .int {
-    margin: 20px 0px;
+    margin: 18px 0px;
 }
 
 .ff {
@@ -425,7 +429,7 @@ main a:hover {
 }
 
 .fr {
-    margin: 19px 0px;
+    margin: 20px 0px;
 }
 
 
