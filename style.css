@@ -177,6 +177,7 @@ main a:hover {
     border: solid 5px var(--nfl-red);
     border-radius: 5px;
     background-color: #860404;
+    align-items: center;
 }
 
 .game-images {
@@ -456,4 +457,20 @@ main a:hover {
     text-align: center;
     color: white;
     font: 20px Bread;
+}
+
+.super-bowl-game {
+    background-color: goldenrod;
+    border-color: #8d6500;
+    color: black;
+}
+
+.super-bowl-game {
+    width: 1200px;
+    margin: auto;
+}
+
+.super-bowl .team-img, .super-bowl #game-logo {
+    height: 200px;
+    width: 200px;
 }
