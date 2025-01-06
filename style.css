@@ -237,7 +237,7 @@ main a:hover {
     gap: 10px;
     color: white;
     font-family: Bread;
-    font-size: 15px;
+    font-size: 13px;
     border-radius: 10px;
     padding: 10px;
 }
@@ -398,10 +398,14 @@ main a:hover {
 }
 
 .pass-int {
-    margin: 20px 0px;
+    margin: 19px 0px;
 }
 
 .ru-yds {
+    margin: 19px 0px;
+}
+
+.ru-tds {
     margin: 18px 0px;
 }
 
@@ -410,15 +414,15 @@ main a:hover {
 }
 
 .rec-td {
-    margin: 18px 0px;
+    margin: 16px 0px;
 }
 
 .tfl {
-    margin: 24px 0px;
+    margin: 22px 0px;
 }
 
 .sack {
-    margin: 20px 0px;
+    margin: 19px 0px;
 }
 
 .int {
@@ -430,7 +434,7 @@ main a:hover {
 }
 
 .fr {
-    margin: 20px 0px;
+    margin: 21px 0px;
 }
 
 
